@@ -1,0 +1,7 @@
+ebin/*
+*.beam
+deps/*
+rel/darius
+.concrete/DEV_MODE
+deps.plt
+.eunit
