@@ -1,12 +1,14 @@
 %% -*- mode: erlang -*-
 {application, darius,
  [
-  {description, "the darius project"},
+  {description, "The world's biggest rabbit"},
   {vsn, "0.0.1"},
   {registered, []},
   {applications, [
                   kernel,
-                  stdlib
+                  stdlib,
+                  amqp_client,
+                  rabbit_common
                  ]},
   %% uncomment if this is an active application
   %% {mod, { darius_app, []}},

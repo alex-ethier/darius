@@ -1,11 +1,9 @@
-# darius #
+# Darius WTF#
 
-Everything you wanted to know about darius but were afraid to ask.
+World's biggest rabbit, according to Guinness World Records is named Darius!
 
-## Author(s) ##
+Darius is a BASIC ampq client wrapper.
 
-* First Last <you@example.net>
 
-## Copyright ##
 
-Copyright (c) 2013 YOU.  All rights reserved.
+
